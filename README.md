@@ -146,8 +146,9 @@ cosmo-toolkit/
 - [TASI Cosmology Lecture](https://www.youtube.com/watch?v=PWx-S2COTZQ&ab_channel=TASIvideos)
 
 **Academic Papers (arXiv):**
-- [arXiv:1701.01467](https://arxiv.org/pdf/1701.01467)
-- [arXiv:1205.2064](https://arxiv.org/pdf/1205.2064)
-- [arXiv:1712.04512](https://arxiv.org/pdf/1712.04512)
+* [arXiv:1701.01467](https://arxiv.org/pdf/1701.01467)
+* [arXiv:1205.2064](https://arxiv.org/pdf/1205.2064)
+* [arXiv:1712.04512](https://arxiv.org/pdf/1712.04512)
+* [arXiv:2506.12230](https://arxiv.org/pdf/2506.12230)
 
 
