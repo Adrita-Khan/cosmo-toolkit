@@ -2,7 +2,7 @@
 
 A comprehensive Python toolkit for observational cosmology, combining theoretical foundations with modern data analysis techniques, machine learning, and statistical methods.
 
-## 🔭 Overview
+## Overview
 
 This repository provides tools and resources for:
 - **Observational Cosmology**: Data analysis pipelines for cosmic surveys
@@ -11,37 +11,37 @@ This repository provides tools and resources for:
 - **Mathematical Foundations**: Core equations and numerical methods
 - **Theory & Models**: Implementation of cosmological theories and models
 
-## ✨ Features
+## Features
 
-### 🔍 Observational Analysis
+### Observational Analysis
 - **Supernova Analysis**: Type Ia SNe distance measurements
 - **CMB Analysis**: Cosmic microwave background data processing
 - **BAO Analysis**: Baryon acoustic oscillation measurements
 - **Weak Lensing**: Shear correlation functions and mass mapping
 - **Galaxy Clustering**: Two-point correlation functions
 
-### 🧠 Machine Learning
+### Machine Learning
 - **Parameter Estimation**: Neural networks for cosmological parameters
 - **Anomaly Detection**: Identifying unusual cosmic objects
 - **Classification**: Galaxy/star separation, supernova typing
 - **Dimensionality Reduction**: PCA, t-SNE for high-dimensional data
 - **Deep Learning**: CNNs for image analysis, RNNs for time series
 
-### 📊 Statistical Methods
+### Statistical Methods
 - **MCMC Sampling**: Metropolis-Hastings, Hamiltonian Monte Carlo
 - **Nested Sampling**: Evidence calculation and model comparison
 - **Bayesian Inference**: Parameter estimation with proper uncertainties
 - **Frequentist Methods**: χ² fitting, profile likelihoods
 - **Model Selection**: Information criteria (AIC, BIC, DIC)
 
-### 🧮 Mathematical Foundations
+### Mathematical Foundations
 - **Distance Calculations**: Luminosity, angular diameter, comoving distances
 - **Growth Functions**: Structure formation and perturbation theory
 - **Power Spectra**: Matter and CMB power spectrum calculations
 - **Numerical Integration**: Cosmological integrals and differential equations
 - **Special Functions**: Spherical harmonics, Bessel functions
 
-### 🌐 Cosmological Models
+### Cosmological Models
 - **Standard Model**: ΛCDM with varying parameters
 - **Dark Energy Models**: w(z), quintessence, phantom energy
 - **Modified Gravity**: f(R), DGP, scalar-tensor theories
