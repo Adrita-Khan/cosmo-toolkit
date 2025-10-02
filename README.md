@@ -1,6 +1,8 @@
 # Cosmo-Toolkit 
 
-A comprehensive Python toolkit for observational cosmology, combining theoretical foundations with modern data analysis techniques, machine learning, and statistical methods.
+**A comprehensive Python toolkit for observational cosmology, integrating theoretical foundations with advanced data analysis, machine learning, and statistical techniques.**
+
+The **Cosmo-Toolkit** offers a set of tools and resources aimed at cosmological research, with a focus on observational data analysis, statistical modeling, and machine learning applications. This toolkit is designed to support researchers in extracting meaningful insights from large cosmic surveys and advancing cosmological parameter estimation, combining theoretical cosmology with modern computational methods.
 
 ## Overview
 
