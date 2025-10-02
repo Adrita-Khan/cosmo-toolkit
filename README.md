@@ -1,4 +1,4 @@
-# Cosmo-Toolkit 🌌
+# Cosmo-Toolkit 
 
 A comprehensive Python toolkit for observational cosmology, combining theoretical foundations with modern data analysis techniques, machine learning, and statistical methods.
 
@@ -10,77 +10,6 @@ This repository provides tools and resources for:
 - **Statistical Methods**: Bayesian inference, MCMC, and statistical modeling
 - **Mathematical Foundations**: Core equations and numerical methods
 - **Theory & Models**: Implementation of cosmological theories and models
-
-## 📋 Table of Contents
-
-- [Installation](#installation)
-- [Quick Start](#quick-start)
-- [Repository Structure](#repository-structure)
-- [Features](#features)
-- [Documentation](#documentation)
-- [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
-
-## 🛠️ Installation
-
-### Prerequisites
-- Python 3.8+
-- NumPy, SciPy, Matplotlib
-- Astropy
-- scikit-learn, TensorFlow/PyTorch (for ML modules)
-
-### Install from source
-```bash
-git clone https://github.com/yourusername/cosmo-toolkit.git
-cd cosmo-toolkit
-pip install -r requirements.txt
-pip install -e .
-```
-
-### Using conda (recommended)
-```bash
-conda create -n cosmo python=3.9
-conda activate cosmo
-pip install -r requirements.txt
-```
-
-## 🚀 Quick Start
-
-```python
-import cosmo_toolkit as ct
-
-# Load observational data
-data = ct.data.load_supernova_data("jla")
-
-# Fit cosmological parameters
-fitter = ct.models.LambdaCDM()
-results = fitter.fit(data, method="mcmc")
-
-# Visualize results
-ct.plotting.corner_plot(results.samples)
-```
-
-## 📁 Repository Structure
-
-```
-cosmo-toolkit/
-├── cosmo_toolkit/
-│   ├── data/              # Data loading and processing
-│   ├── models/            # Cosmological models
-│   ├── inference/         # Statistical inference tools
-│   ├── ml/               # Machine learning modules
-│   ├── theory/           # Theoretical calculations
-│   ├── observations/     # Observational analysis tools
-│   ├── plotting/         # Visualization utilities
-│   └── utils/            # Helper functions
-├── notebooks/            # Jupyter notebooks with examples
-├── scripts/              # Standalone analysis scripts
-├── docs/                # Documentation
-├── tests/               # Unit tests
-├── data/                # Sample datasets
-└── papers/              # Reference papers and notes
-```
 
 ## ✨ Features
 
@@ -151,4 +80,10 @@ cosmo-toolkit/
 * [arXiv:1712.04512](https://arxiv.org/pdf/1712.04512)
 * [arXiv:2506.12230](https://arxiv.org/pdf/2506.12230)
 
+---
+
+## Contact
+
+**Adrita Khan**  
+[Email](mailto:adrita.khan.official@gmail.com) | [LinkedIn](https://www.linkedin.com/in/adrita-khan) | [Twitter](https://x.com/Adrita_)
 
